@@ -5,3 +5,5 @@ We have a watch on this brand
 This is a release branch created for the latest release
 In this the another team will be working
 
+So, This is the process how to create a branch and how to merge two branches
+
